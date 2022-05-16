@@ -1,0 +1,11 @@
+node_modules
+event.txt
+hello.txt
+transactionLog.txt
+
+csv.js
+data.csv
+
+./src/fetchContract_copy.js
+./src/fetchdata.js
+./src/fetchToken.js
